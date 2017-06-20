@@ -3,7 +3,8 @@ Pequenos e simples exemplos para quem ainda não conhece Go
 
 ##Indice
 
-###- Variáveis
+###
+Variáveis
 ###- Funções
 ###- Structs
 ###- Goroutines
